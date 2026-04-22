@@ -1,0 +1,6 @@
+@directory_api_HostAddress = http://localhost:5062
+
+GET {{directory_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
